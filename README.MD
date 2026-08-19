@@ -22,6 +22,7 @@ To improve my programming, problem-solving, and algorithmic thinking skills.
 - Variables and Data Types
 - Operators
 - Conditional Statements
+- Loop
 
 ## 🚀 Progress
 
