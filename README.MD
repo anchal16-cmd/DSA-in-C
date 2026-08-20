@@ -23,6 +23,8 @@ To improve my programming, problem-solving, and algorithmic thinking skills.
 - Operators
 - Conditional Statements
 - Loop
+- Nested lopps
+- Array
 
 ## 🚀 Progress
 
