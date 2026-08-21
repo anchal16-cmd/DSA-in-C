@@ -1,33 +1,63 @@
-# DSA in C
+# 🚀 DSA in C
 
-My learning journey of **Data Structures and Algorithms using C**.
+My daily learning journey of **Data Structures and Algorithms using C**, as part of a **85-day challenge**.
 
 ## 🎯 Goal
 
-To improve my programming, problem-solving, and algorithmic thinking skills.
+To build a strong foundation in C programming and master Data Structures & Algorithms through consistent, daily practice — one topic at a time.
 
-## 📚 Currently Learning
+## 📊 Progress
 
-- C Programming
-- Data Structures
-- Algorithms
-- Problem Solving
+- **Day:** 4 / 85
+- **Current Phase:** C Programming Fundamentals
+- **Status:** 🟢 On track
 
 ## 📂 Topics Covered
 
-### C Programming Basics
+| # | Folder | Topic | Status |
+|---|--------|-------|--------|
+| 01 | `01_Basics` | Hello World, Input/Output | ✅ Done |
+| 02 | `02_Variables-Datatypes` | Variables & Data Types | ✅ Done |
+| 03 | `03_Operators` | Arithmetic, Relational, Logical, Assignment Operators | ✅ Done |
+| 04 | `04_Conditional-Statements` | if-else, switch, ternary operator | ✅ Done |
+| 05 | `05_Loops` | for, while, do-while, Nested loops | ✅ Done |
+| 06 | `06_Arrays` | 1D Arrays — traversal, search, sort basics | ✅ Done |
+| 07 | `07_String` | String basics (`strlen`, `strcpy`, `strcat`, `strcmp`) | 🟡 In Progress |
+| 08 | `08_Function` | Functions, Call by Value/Reference | 🟡 In Progress |
 
-- Hello World
-- Input and Output
-- Variables and Data Types
-- Operators
-- Conditional Statements
-- Loop
-- Nested lopps
-- Array
+## 🗺️ Roadmap (85-Day Plan)
 
-## 🚀 Progress
+- [x] C Programming Basics
+- [ ] Strings & String Manipulation
+- [ ] Functions & Recursion
+- [ ] Pointers
+- [ ] Structures & Unions
+- [ ] Dynamic Memory Allocation
+- [ ] Linked List (Singly, Doubly, Circular)
+- [ ] Stack & Queue
+- [ ] Trees (Binary Tree, BST)
+- [ ] Graphs
+- [ ] Sorting Algorithms
+- [ ] Searching Algorithms
+- [ ] Dynamic Programming
 
-Currently learning **C Programming Basics** as a foundation for Data Structures and Algorithms.
+## 🛠️ Tech Stack
 
-This repository will be updated regularly as I learn and practice new concepts.
+- **Language:** C
+- **Editor:** VS Code
+- **Compiler:** GCC
+
+## 📌 How to Run
+
+```bash
+gcc filename.c -o output
+./output
+```
+
+## 🔗 Connect
+
+Following this journey daily on **GitHub** and **LinkedIn** — feel free to follow along!
+
+---
+
+⭐ This repository is updated regularly as I learn and practice new concepts on my path to mastering DSA.
