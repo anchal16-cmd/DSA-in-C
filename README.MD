@@ -8,7 +8,7 @@ To build a strong foundation in C programming and master Data Structures & Algor
 
 ## 📊 Progress
 
-- **Day:** 4 / 85
+- **Day:** 5 / 85
 - **Current Phase:** C Programming Fundamentals
 - **Status:** 🟢 On track
 
@@ -22,23 +22,27 @@ To build a strong foundation in C programming and master Data Structures & Algor
 | 04 | `04_Conditional-Statements` | if-else, switch, ternary operator | ✅ Done |
 | 05 | `05_Loops` | for, while, do-while, Nested loops | ✅ Done |
 | 06 | `06_Arrays` | 1D Arrays — traversal, search, sort basics | ✅ Done |
-| 07 | `07_String` | String basics (`strlen`, `strcpy`, `strcat`, `strcmp`) | 🟡 In Progress |
-| 08 | `08_Function` | Functions, Call by Value/Reference | 🟡 In Progress |
+| 07 | `07_String` | String basics (`strlen`, `strcpy`, `strcat`, `strcmp`) | ✅ Done |
+| 08 | `08_Function` | Functions, Call by Value/Reference | ✅ Done |
+| 09 | `09_Pointers` | Pointer Basics, Assignment, Double Pointer, Pointer Arithmetic, Void/Null Pointer | ✅ Done |
 
 ## 🗺️ Roadmap (85-Day Plan)
 
 - [x] C Programming Basics
-- [ ] Strings & String Manipulation
-- [ ] Functions & Recursion
-- [ ] Pointers
+- [x] Strings & String Manipulation
+- [x] Functions
+- [x] Pointers
+- [ ] Recursion
 - [ ] Structures & Unions
+- [ ] File Handling
 - [ ] Dynamic Memory Allocation
+- [ ] Storage Classes & Preprocessor
 - [ ] Linked List (Singly, Doubly, Circular)
 - [ ] Stack & Queue
 - [ ] Trees (Binary Tree, BST)
 - [ ] Graphs
 - [ ] Sorting Algorithms
-- [ ] Searching Algorithms
+- [ ] Searching & Hashing
 - [ ] Dynamic Programming
 
 ## 🛠️ Tech Stack
