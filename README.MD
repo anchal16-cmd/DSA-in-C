@@ -8,7 +8,7 @@ To build a strong foundation in C programming and master Data Structures & Algor
 
 ## 📊 Progress
 
-- **Day:** 5 / 85
+- **Day:** 6 / 85
 - **Current Phase:** C Programming Fundamentals
 - **Status:** 🟢 On track
 
@@ -25,6 +25,7 @@ To build a strong foundation in C programming and master Data Structures & Algor
 | 07 | `07_String` | String basics (`strlen`, `strcpy`, `strcat`, `strcmp`) | ✅ Done |
 | 08 | `08_Function` | Functions, Call by Value/Reference | ✅ Done |
 | 09 | `09_Pointers` | Pointer Basics, Assignment, Double Pointer, Pointer Arithmetic, Void/Null Pointer | ✅ Done |
+| 10 | `10_Recursion` | Factorial, Sum of N, Power, Fibonacci, Direct/Indirect Recursion | ✅ Done |
 
 ## 🗺️ Roadmap (85-Day Plan)
 
@@ -32,7 +33,7 @@ To build a strong foundation in C programming and master Data Structures & Algor
 - [x] Strings & String Manipulation
 - [x] Functions
 - [x] Pointers
-- [ ] Recursion
+- [x] Recursion
 - [ ] Structures & Unions
 - [ ] File Handling
 - [ ] Dynamic Memory Allocation
