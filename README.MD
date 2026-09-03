@@ -8,7 +8,7 @@ To build a strong foundation in C programming and master Data Structures & Algor
 
 ## 📊 Progress
 
-- **Day:** 7 / 85
+- **Day:** 8 / 85
 - **Current Phase:** C Programming Fundamentals
 - **Status:** 🟢 On track
 
@@ -27,6 +27,7 @@ To build a strong foundation in C programming and master Data Structures & Algor
 | 09 | `09_Pointers` | Pointer Basics, Assignment, Double Pointer, Pointer Arithmetic, Void/Null Pointer | ✅ Done |
 | 10 | `10_Recursion` | Factorial, Sum of N, Power, Fibonacci, Direct/Indirect Recursion | ✅ Done |
 | 11 | `11_Structures` | Structure Basics, Array of Structures, Nested Structures, Pointer to Structure, Union | ✅ Done |
+| 12 | `12_FileHandling` | Writing, Reading, and Appending data to files (fopen, fprintf, fgets, fclose) | ✅ Done |
 
 ## 🗺️ Roadmap (85-Day Plan)
 
@@ -36,7 +37,7 @@ To build a strong foundation in C programming and master Data Structures & Algor
 - [x] Pointers
 - [x] Recursion
 - [x] Structures & Unions
-- [ ] File Handling
+- [x] File Handling
 - [ ] Dynamic Memory Allocation
 - [ ] Storage Classes & Preprocessor
 - [ ] Linked List (Singly, Doubly, Circular)
